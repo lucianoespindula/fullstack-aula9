@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 20,
+    "editor.lineHeight": 24,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80
+        120
+    ],
+    "editor.tabSize": 2,
+    "editor.renderLineHightLight": "gutter",
+    "terminal.integrated.fontSize": 14,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "windowm.zoomLevel": 1,
+    "liveServer.settings.donoShowInfoMsg": true
+}
